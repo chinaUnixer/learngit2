@@ -4,4 +4,4 @@ git is a tool and very easy to learn
 git is very popular now 
 git had a inex called stage	
 creating a brach is quick and simple
-
+merge branch using no ff
