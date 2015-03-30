@@ -7,3 +7,4 @@ creating a brach is quick and simple
 merge branch using no fast forward
 create a dev branch
 create a dev branch, and merge to master
+push to github
